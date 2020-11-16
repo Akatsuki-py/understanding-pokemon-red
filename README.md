@@ -1,3 +1,5 @@
+![Japanese Flag](docs/image/japan.svg) → ![British Flag](docs/image/uk.svg) [Click here to view this README in English…](README.en.md)
+
 # 詳解ポケモン赤
 
 ![cover](./docs/image/cover.png)
